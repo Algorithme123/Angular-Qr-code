@@ -25,3 +25,19 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+# Les dependance a installer
+
+## installation
+### for angular 15
+npm install angularx-qrcode --save
+
+### for angular 14
+npm install angularx-qrcode@14.0.0 --save
+
+## dependencies
+npm i @cordoo/qrcode-application
+
+## Data link
+
