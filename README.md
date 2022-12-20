@@ -7,6 +7,7 @@
 
 
 # Les dependance a installer
+https://www.npmjs.com/package/angularx-qrcode
 
 ## installation
 ### for angular 15
